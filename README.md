@@ -18,3 +18,10 @@ nozka rekord do szafki obok z lewej
 7) на фрезованыхфронтах нет ручек, что делать ?
 8) шпара слева от шкафа 18мм, поправить!
 9) 4 камара на левый шкаф и подвесить
+
+
+
+### LED
+15 metrow led rgbwcct
+6 controllers
+1 stacja zigbee
